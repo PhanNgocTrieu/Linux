@@ -1,0 +1,27 @@
+total 100
+drwxrwxr-x 22 trieupn trieupn 4096 Thg 5  10 12:51 .
+drwxrwxr-x 10 trieupn trieupn 4096 Thg 5   7 13:17 ..
+drwxrwxr-x 15 trieupn trieupn 4096 Thg 5  10 12:52 build
+-rwxrwxr-x  1 trieupn trieupn  739 Thg 5  10 12:51 CMakeLists.txt
+-rwxrwxr-x  1 trieupn trieupn 1473 Thg 4  18 12:29 CMakeSettings.json
+drwxrwxr-x  5 trieupn trieupn 4096 Thg 4  18 12:29 codeForce
+drwxrwxr-x  4 trieupn trieupn 4096 Thg 4  20 12:47 codeLearn
+drwxrwxr-x  7 trieupn trieupn 4096 Thg 4  20 12:47 CodeSignal
+drwxrwxr-x  5 trieupn trieupn 4096 Thg 4  18 12:29 competitiveProblems
+drwxrwxr-x  2 trieupn trieupn 4096 Thg 4  18 12:29 C_Solving
+drwxrwxr-x  5 trieupn trieupn 4096 Thg 4  18 12:29 DataStructure
+drwxrwxr-x  2 trieupn trieupn 4096 Thg 5   5 10:47 _doc
+drwxrwxr-x  2 trieupn trieupn 4096 Thg 4  18 12:29 docs
+drwxrwxr-x  8 trieupn trieupn 4096 Thg 5   5 10:55 .git
+drwxrwxr-x  6 trieupn trieupn 4096 Thg 4  20 12:47 Graph
+drwxrwxr-x  5 trieupn trieupn 4096 Thg 4  20 12:47 HackerRank
+drwxrwxr-x  5 trieupn trieupn 4096 Thg 4  20 12:47 IOLib
+drwxrwxr-x  5 trieupn trieupn 4096 Thg 4  18 12:29 LeetCode
+-rw-rw-r--  1 trieupn trieupn  802 Thg 4  18 12:29 _PathForPreparing.md
+-rw-rw-r--  1 trieupn trieupn    0 Thg 4  18 12:29 readme.md
+drwxrwxr-x  5 trieupn trieupn 4096 Thg 5   8 00:19 Shell
+drwxrwxr-x  5 trieupn trieupn 4096 Thg 5   5 10:47 socket
+drwxrwxr-x  2 trieupn trieupn 4096 Thg 4  18 12:29 Some_Challenges
+drwxrwxr-x  5 trieupn trieupn 4096 Thg 5   4 16:14 University
+drwxrwxr-x  3 trieupn trieupn 4096 Thg 4  18 12:29 .vs
+drwxrwxr-x  2 trieupn trieupn 4096 Thg 5   4 16:14 .vscode
