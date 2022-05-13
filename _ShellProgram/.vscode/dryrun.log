@@ -1,0 +1,8 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/trieupn1/Documents/_work/_ShellProgram'
+gcc  -c main.c
+ 
+g++  -c reciprocal.cpp
+g++  -o reciprocal main.o reciprocal.o
+make: Leaving directory '/home/trieupn1/Documents/_work/_ShellProgram'
+ 
